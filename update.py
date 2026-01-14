@@ -1,7 +1,7 @@
 import requests
 from datetime import datetime
 
-# korea-live.json 地址
+# JSON 地址
 JSON_URL = "http://141.164.53.195/live/korea-live.json"
 OUTPUT = "korea.m3u8"
 
@@ -26,7 +26,7 @@ def run():
 
         url = uris[0]
 
-        # 按你指定格式生成 m3u8
+        # 按要求格式输出
         lines.append(f"#EXTINF:-1 ,{name}")
         lines.append(url)
 
