@@ -1,7 +1,6 @@
 import requests
 from datetime import datetime
 
-# JSON 地址
 JSON_URL = "http://141.164.53.195/live/korea-live.json"
 OUTPUT = "korea.m3u8"
 
@@ -20,16 +19,11 @@ def run():
     for item in data:
         name = item.get("name", "").strip()
         uris = item.get("uris", [])
-
         if not name or not uris:
             continue
-
         url = uris[0]
-
-        # 按要求格式输出
         lines.append(f"#EXTINF:-1 ,{name}")
         lines.append(url)
-
         count += 1
 
     try:
