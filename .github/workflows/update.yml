@@ -1,0 +1,40 @@
+name: 自动更新韩国直播源
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"  # 每10分钟执行一次
+  workflow_dispatch:  # 支持手动触发
+
+jobs:
+  update_m3u8:
+    runs-on: ubuntu-latest
+    steps:
+      # 1️⃣ 拉取仓库代码
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      # 2️⃣ 安装 Python
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+
+      # 3️⃣ 安装依赖
+      - name: Install requests
+        run: pip install requests
+
+      # 4️⃣ 运行 update.py
+      - name: Run update.py
+        run: python update.py || echo "Python 脚本执行失败，但 workflow 不终止"
+
+      # 5️⃣ 提交更新到 GitHub
+      - name: Commit & Push
+        env:
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git remote set-url origin https://x-access-token:${TOKEN}@github.com/${{ github.repository }}.git
+          git add korea.m3u8
+          git diff --staged --quiet || git commit -m "自动更新 korea.m3u8"
+          git push origin HEAD
