@@ -5,8 +5,6 @@ http://koreatv.dothome.co.kr/kbs1.php
 http://koreatv.dothome.co.kr/kbs2.php
 #EXTINF:-1,SBS
 http://43.137.43.57/get_channel.php?channel=sbs
-#EXTINF:-1,MBC
-https://lgucdn-aws-live.cdn.wavve.com/live/55/0000000M01/AVC-FHD_5M-TS-KO-221026000000.m3u8
 #EXTINF:-1,KBSWorld
 http://koreatv.dothome.co.kr/kbsworld.php
 #EXTINF:-1,KBSStory
