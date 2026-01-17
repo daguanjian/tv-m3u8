@@ -1,4 +1,5 @@
 #EXTM3U
+KBS1,http://43.137.43.57/get_channel.php?channel=kbs1
 KBS2,http://koreatv.dothome.co.kr/kbs2.php
 SBS,http://43.137.43.57/get_channel.php?channel=sbs
 KBSWorld,http://koreatv.dothome.co.kr/kbsworld.php
