@@ -9,7 +9,7 @@ OUTPUT2 = "korea2.m3u8"   # 标准 M3U（支持 php）
 def extract_m3u8_only(uris):
     """仅提取 .m3u8（用于 OUTPUT1）"""
     def is_m3u8(u):
-        return isinstance(u, str) and ("channel=" in u.lower() or ".m3u8" in u.lower() or u.lower().endswith(".php"))  and "skbcdn-aws-live.cdn.wavve.com" not in u.lower() and "file-1253962976.cos" not in u.lower()
+        return isinstance(u, str) and ("channel=" in u.lower() or ".m3u8" in u.lower() or u.lower().endswith(".php"))  and "wavve" not in u.lower() and "file-1253962976.cos" not in u.lower()
 
     if isinstance(uris, list):
         for u in uris:
@@ -36,7 +36,7 @@ def extract_m3u8_or_php(uris):
     urls = []
 
     def is_valid(u):
-        return isinstance(u, str) and ("channel=" in u.lower() or ".m3u8" in u.lower() or u.lower().endswith(".php"))  and "skbcdn-aws-live.cdn.wavve.com" not in u.lower() and "file-1253962976.cos" not in u.lower()
+        return isinstance(u, str) and ("channel=" in u.lower() or ".m3u8" in u.lower() or u.lower().endswith(".php"))  and "wavve" not in u.lower() and "file-1253962976.cos" not in u.lower()
         
 
     if isinstance(uris, list):
