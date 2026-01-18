@@ -1,6 +1,6 @@
 #EXTM3U
-KBS1,http://43.137.43.57/get_channel.php?channel=kbs1
-KBS2,http://koreatv.dothome.co.kr/kbs2.php
+KBS1,https://lgucdn-aws-live.cdn.wavve.com/live/4Y/0000000K01/AVC-FHD_5M-TS-KO-221026000000.m3u8
+KBS2,https://lgucdn-aws-live.cdn.wavve.com/live/4Y/0000000K02/AVC-FHD_5M-TS-KO-221026000000.m3u8
 SBS,http://43.137.43.57/get_channel.php?channel=sbs
 KBSWorld,http://koreatv.dothome.co.kr/kbsworld.php
 KBSStory,http://koreatv.dothome.co.kr/kbsstory.php
@@ -47,3 +47,16 @@ SBS 뉴스,https://sogne-live.tving.com/sbsnewslive/live.smil/medialist_12498461
 延边卫视频道,https://srs.iyb983.cn/video/CYS/index.m3u8
 YBTV-1 朝鲜语综合频道,https://srs.iyb983.cn/video/ybtv1/index.m3u8
 YBTV-2 汉语综合频道,https://srs.iyb983.cn/video/ybtv2/index.m3u8
+KBS1-테스트,http://43.137.43.57/get_channel.php?channel=kbs1
+KBS2-테스트,http://43.137.43.57/get_channel.php?channel=kbs2
+SBS-테스트,http://43.137.43.57/get_channel.php?channel=sbs
+MBC-테스트,http://43.137.43.57/get_channel.php?channel=mbc
+JTBC-테스트,http://43.137.43.57/get_channel.php?channel=jtbc
+연합뉴스-테스트,http://43.137.43.57/get_channel.php?channel=yna
+TV조선-테스트,http://43.137.43.57/get_channel.php?channel=tvchosun
+MBN-테스트,http://43.137.43.57/get_channel.php?channel=mbn
+TVN-테스트,http://43.137.43.57/get_channel.php?channel=tvn
+채널A-테스트,http://43.137.43.57/get_channel.php?channel=channela
+YTN-테스트,http://43.137.43.57/get_channel.php?channel=ytn
+OCN-테스트,http://43.137.43.57/get_channel.php?channel=ocn
+EBS1-테스트,http://43.137.43.57/get_channel.php?channel=ebs1
