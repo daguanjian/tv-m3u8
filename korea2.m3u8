@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1,KBS1
-https://lgucdn-aws-live.cdn.wavve.com/live/4Y/0000000K01/AVC-FHD_5M-TS-KO-221026000000.m3u8
-#EXTINF:-1,KBS2
-https://lgucdn-aws-live.cdn.wavve.com/live/4Y/0000000K02/AVC-FHD_5M-TS-KO-221026000000.m3u8
 #EXTINF:-1,SBS
 http://43.137.43.57/get_channel.php?channel=sbs
 #EXTINF:-1,KBSWorld
