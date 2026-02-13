@@ -121,7 +121,7 @@ http://43.137.43.57/get_channel.php?channel=ytn
 http://43.137.43.57/get_channel.php?channel=ocn
 #EXTINF:-1,EBS1-테스트
 http://43.137.43.57/get_channel.php?channel=ebs1
-#EXTINF:-1,更新日期: 2026-2-13 09:10:29
+#EXTINF:-1,更新日期: 2026-2-13 18:06:07
 http://play.kankanlive.com/live/1698234869325962.m3u8
 #EXTINF:-1,CCTV1综合
 http://play.kankanlive.com/live/1698234869325962.m3u8
@@ -132,7 +132,7 @@ http://pull-hls-f11.douyincdn.com/media/stream-695306571565499052.m3u8?arch_hrch
 #EXTINF:-1,CCTV16奥林匹克
 http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1,湖南卫视
-https://hlsbkmgsplive.miguvideo.com/wd-hunanhd-2500/01.m3u8?&HlsSubType=&encrypt=
+http://74.91.26.218:82/live/hnwshd.m3u8
 #EXTINF:-1,浙江卫视
 http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 #EXTINF:-1,江苏卫视
@@ -149,14 +149,10 @@ https://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/chongqing/1000/01.m3u8?&Hls
 https://hlsbkmgsplive.miguvideo.com/envivo_v/2018/SD/jilin/1000/01.m3u8?&HlsSubType=&encrypt=
 #EXTINF:-1,兵团卫视
 https://hlsbkmgsplive.miguvideo.com/migu/kailu/btws/51/20250804/01.m3u8?&HlsSubType=&encrypt=
-#EXTINF:-1,广东体育
-http://120.238.85.131:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1,广东少儿
 http://120.238.85.131:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1,广东影视
 https://hlsbkmgsplive.miguvideo.com/wd_r1/2018/nfmedia/nfys/1000/01.m3u8?&HlsSubType=&encrypt=
-#EXTINF:-1,广东4K超高清
-http://183.11.239.36:808/hls/9/index.m3u8
 #EXTINF:-1,长沙县新闻综合
 https://liveplay-srs.voc.com.cn/hls/tv/203_10cdf5.m3u8
 #EXTINF:-1,衡山综合
@@ -263,6 +259,8 @@ http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
 http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
 #EXTINF:-1,南京少儿
 http://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8
+#EXTINF:-1,宜兴新闻综合
+http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
 #EXTINF:-1,哈尔滨新闻综合
 https://rmplive.hljtv.com/live/haerbin.m3u8
 #EXTINF:-1,哈尔滨生活
@@ -331,8 +329,12 @@ http://live.ynurl.com/video/s10020-ystv-zb/index.m3u8
 http://live.ynurl.com/video/s10060-XCTV/index.m3u8
 #EXTINF:-1,马关县电视台
 http://live.ynurl.com/video/s10046-001/index.m3u8
+#EXTINF:-1,麻栗坡电视台
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8
+#EXTINF:-1,丘北县电视台
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel14/playlist.m3u8
 #EXTINF:-1,广南县电视台
-http://live.ynurl.com/video/s10031-gnxgbds/index.m3u8
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel19/playlist.m3u8
 #EXTINF:-1,芒市综合
 http://live.ynurl.com/video/s10001-mstv1/index.m3u8
 #EXTINF:-1,盈江综合
@@ -355,6 +357,8 @@ http://live.ynurl.com/video/s10019-mzdst/index.m3u8
 http://live.ynurl.com/video/s10047-cntv/index.m3u8
 #EXTINF:-1,海峡卫视
 https://hlsbkmgsplive.miguvideo.com/migu/kailu/haixiaws/51/20230724/01.m3u8?&HlsSubType=&encrypt=
+#EXTINF:-1,河南曲艺
+http://live.dxhmt.cn:9080/19903718786/854deb36f8db4c9098cad18cc35bd632.m3u8
 #EXTINF:-1,济源综合
 http://tvpull.dxhmt.cn:9081/tv/19001-1.m3u8
 #EXTINF:-1,兰考综合
@@ -518,7 +522,7 @@ http://pull-hls-f11.douyincdn.com/media/stream-695306571565499052.m3u8?arch_hrch
 #EXTINF:-1,CCTV16超清
 http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1,湖南卫视超清
-https://hlsbkmgsplive.miguvideo.com/wd-hunanhd-2500/01.m3u8?&HlsSubType=&encrypt=
+http://74.91.26.218:82/live/hnwshd.m3u8
 #EXTINF:-1,浙江卫视超清
 http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 #EXTINF:-1,江苏卫视超清
