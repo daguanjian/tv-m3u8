@@ -115,7 +115,7 @@ http://43.137.43.57/get_channel.php?channel=ytn
 http://43.137.43.57/get_channel.php?channel=ocn
 #EXTINF:-1,EBS1-테스트
 http://43.137.43.57/get_channel.php?channel=ebs1
-#EXTINF:-1,更新日期: 2026-2-15 22:17:01
+#EXTINF:-1,更新日期: 2026-2-16 06:45:28
 http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
 #EXTINF:-1,CCTV1综合
 http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
@@ -135,10 +135,6 @@ http://74.91.26.218:82/live/hnwshd.m3u8
 http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 #EXTINF:-1,江苏卫视
 https://hlsbkmgsplive.miguvideo.com/migu/kailu/jswshd265/55/20200407/01.m3u8?&HlsSubType=&encrypt=
-#EXTINF:-1,广东卫视
-http://pull-hls-f11.douyincdn.com/media/stream-695307307283120812.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1771761006&major_anchor_level=common&sign=6fa95d2a1a747bc6082b03c7bdc931d2&t_id=037-20260215195005FE023297D662D6D253F0-aoPBUH
-#EXTINF:-1,安徽卫视
-http://pull-hls-f11.douyincdn.com/media/stream-407077894014370476.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1771761254&major_anchor_level=common&sign=7e0d517238128b57895bb0f65e5cd8ad&t_id=037-202602151954147B0C79865E97FBB1BF99-mLy0Un
 #EXTINF:-1,山东卫视
 https://hlsbkmgsplive.miguvideo.com/wd_r4/yg/shandongwshd/3000/01.m3u8?&HlsSubType=&encrypt=
 #EXTINF:-1,辽宁卫视
@@ -155,6 +151,8 @@ http://pull-hls-f11.douyincdn.com/media/stream-695314078702240428.m3u8?arch_hrch
 http://38.75.136.137:98/gslb/dsdqpub/hawshd.m3u8?auth=testpub
 #EXTINF:-1,兵团卫视
 https://hlsbkmgsplive.miguvideo.com/migu/kailu/btws/51/20250804/01.m3u8?&HlsSubType=&encrypt=
+#EXTINF:-1,广东民生
+http://183.11.239.36:808/hls/18/index.m3u8
 #EXTINF:-1,广东体育
 http://120.238.85.131:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1,广东少儿
@@ -267,8 +265,8 @@ http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
 http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
 #EXTINF:-1,龙泉电视台
 http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
-#EXTINF:-1,南京十八生活
-http://nklive.nbs.cn/hls/1173a815-bfdb-4c3c-9f73-89ec37ae7716/index.m3u8
+#EXTINF:-1,南京文旅纪录
+http://nklive.nbs.cn/hls/9b2005c4-046c-422f-ba45-e6adc4f4de07/index.m3u8
 #EXTINF:-1,南京少儿
 http://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8
 #EXTINF:-1,哈尔滨新闻综合
@@ -338,7 +336,7 @@ http://live.ynurl.com/video/s10060-XCTV/index.m3u8
 #EXTINF:-1,马关县电视台
 http://live.ynurl.com/video/s10046-001/index.m3u8
 #EXTINF:-1,广南县电视台
-http://live.ynurl.com/video/s10031-gnxgbds/index.m3u8
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel19/playlist.m3u8
 #EXTINF:-1,芒市综合
 http://live.ynurl.com/video/s10001-mstv1/index.m3u8
 #EXTINF:-1,盈江综合
@@ -527,6 +525,8 @@ http://74.91.26.218:82/live/cctv3hd.m3u8
 http://74.91.26.218:82/live/cctv5hd.m3u8
 #EXTINF:-1,CCTV6超清
 http://74.91.26.218:82/live/cctv6hd.m3u8
+#EXTINF:-1,CCTV13超清
+http://pull-hls-f1.douyinliving.com/media/stream-118861284635312978/playlist.m3u8?arch_hrchy=s2&keeptime=00093a80&major_anchor_level=vip&s_anchor=1&t_id=037-20260216064412F16BC325E0D38E14A163-YYpu0y&wsSecret=d85baf1931eae9e5b63e2164b5e28151&wsTime=69924c3c
 #EXTINF:-1,CCTV16超清
 http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1,湖南卫视超清
@@ -535,12 +535,8 @@ http://74.91.26.218:82/live/hnwshd.m3u8
 http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 #EXTINF:-1,江苏卫视超清
 https://hlsbkmgsplive.miguvideo.com/migu/kailu/jswshd265/55/20200407/01.m3u8?&HlsSubType=&encrypt=
-#EXTINF:-1,广东卫视超清
-http://pull-hls-f11.douyincdn.com/media/stream-695307307283120812.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1771761006&major_anchor_level=common&sign=6fa95d2a1a747bc6082b03c7bdc931d2&t_id=037-20260215195005FE023297D662D6D253F0-aoPBUH
 #EXTINF:-1,山东卫视超清
 https://hlsbkmgsplive.miguvideo.com/wd_r4/yg/shandongwshd/3000/01.m3u8?&HlsSubType=&encrypt=
-#EXTINF:-1,安徽卫视超清
-http://pull-hls-f11.douyincdn.com/media/stream-407077894014370476.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1771761254&major_anchor_level=common&sign=7e0d517238128b57895bb0f65e5cd8ad&t_id=037-202602151954147B0C79865E97FBB1BF99-mLy0Un
 #EXTINF:-1,辽宁卫视超清
 https://hlsbkmgsplive.miguvideo.com/migu/kailu/lnwshd265/54/20200407/01.m3u8?&HlsSubType=&encrypt=
 #EXTINF:-1,东南卫视超清
