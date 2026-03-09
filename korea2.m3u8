@@ -115,7 +115,7 @@ http://43.137.43.57/get_channel.php?channel=ytn
 http://43.137.43.57/get_channel.php?channel=ocn
 #EXTINF:-1,EBS1-테스트
 http://43.137.43.57/get_channel.php?channel=ebs1
-#EXTINF:-1,更新日期: 2026-3-9 07:05:55
+#EXTINF:-1,更新日期: 2026-3-9 08:05:25
 http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cctv1hd265/51/20191230/01.m3u8?msisdn=4f89b0f1d885527a227fd4a636419cfe&mdspid=&spid=699004&netType=4&sid=2201057821&pid=2028597139&timestamp=20260309065507&Channel_ID=0116_2600031500-99000-200300140100004&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=36.134.79.190&SecurityKey=20260309065507&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=3b8a1c6282aa0962017c9ee3314bb2c0&sv=10004&ct=android&playUrlSsn=4f89b0f1d885527a227fd4a636419cfe1773010504855&prlId=4f89b0f1d885527a227fd4a636419cfe1773010504879&jid=4f89b0f1d885527a227fd4a636419cfe1773010504413V&is_advertise=0&sjid=subsession_1773010505199&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=21f0c2d7f2e69c47902bf796841c89a2
 #EXTINF:-1,CCTV1综合
 http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cctv1hd265/51/20191230/01.m3u8?msisdn=4f89b0f1d885527a227fd4a636419cfe&mdspid=&spid=699004&netType=4&sid=2201057821&pid=2028597139&timestamp=20260309065507&Channel_ID=0116_2600031500-99000-200300140100004&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=36.134.79.190&SecurityKey=20260309065507&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=3b8a1c6282aa0962017c9ee3314bb2c0&sv=10004&ct=android&playUrlSsn=4f89b0f1d885527a227fd4a636419cfe1773010504855&prlId=4f89b0f1d885527a227fd4a636419cfe1773010504879&jid=4f89b0f1d885527a227fd4a636419cfe1773010504413V&is_advertise=0&sjid=subsession_1773010505199&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=21f0c2d7f2e69c47902bf796841c89a2
@@ -133,6 +133,8 @@ http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cctv8hd265/54/20200407/01.m3
 http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/cctv13/2000/01.m3u8?msisdn=4f89b0f1d885527a227fd4a636419cfe&mdspid=&spid=699004&netType=4&sid=2202208864&pid=2028597139&timestamp=20260309070245&Channel_ID=0116_2600031500-99000-200300140100004&ProgramID=608807423&ParentNodeID=-99&assertID=2202208864&client_ip=116.140.217.165&SecurityKey=20260309070245&promotionId=&mvid=2202208864&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=5b687f1ea33e1bf932a75ff2f0c12aca&sv=10004&ct=android&playUrlSsn=4f89b0f1d885527a227fd4a636419cfe1773010963240&prlId=4f89b0f1d885527a227fd4a636419cfe1773010963256&jid=4f89b0f1d885527a227fd4a636419cfe1773010962849V&is_advertise=0&sjid=subsession_1773010963750&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=6f78b46d99453125bcb2addc9758df50
 #EXTINF:-1,CCTV16奥林匹克
 http://69.30.246.194/live/cctv16.m3u8
+#EXTINF:-1,CCTV17农业农村
+http://pull-hls-f11.douyincdn.com/media/stream-407213179642053292.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1773619479&major_anchor_level=common&sign=bc2d4a3036fd27024f2c218c2fea7c91&t_id=037-202603090804382D2980E60B5163A589BB-tclVJX
 #EXTINF:-1,湖南卫视
 http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 #EXTINF:-1,浙江卫视
@@ -271,6 +273,8 @@ http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
 http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
 #EXTINF:-1,南京文旅纪录
 http://nklive.nbs.cn/hls/9b2005c4-046c-422f-ba45-e6adc4f4de07/index.m3u8
+#EXTINF:-1,南京十八生活
+http://nklive.nbs.cn/hls/1173a815-bfdb-4c3c-9f73-89ec37ae7716/index.m3u8
 #EXTINF:-1,南京少儿
 http://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8
 #EXTINF:-1,哈尔滨新闻综合
@@ -340,7 +344,7 @@ http://live.ynurl.com/video/s10060-XCTV/index.m3u8
 #EXTINF:-1,马关县电视台
 http://live.ynurl.com/video/s10046-001/index.m3u8
 #EXTINF:-1,广南县电视台
-http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel19/playlist.m3u8
+http://live.ynurl.com/video/s10031-gnxgbds/index.m3u8
 #EXTINF:-1,芒市综合
 http://live.ynurl.com/video/s10001-mstv1/index.m3u8
 #EXTINF:-1,盈江综合
@@ -535,6 +539,8 @@ http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cctv8hd265/54/20200407/01.m3
 http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/cctv13/2000/01.m3u8?msisdn=4f89b0f1d885527a227fd4a636419cfe&mdspid=&spid=699004&netType=4&sid=2202208864&pid=2028597139&timestamp=20260309070245&Channel_ID=0116_2600031500-99000-200300140100004&ProgramID=608807423&ParentNodeID=-99&assertID=2202208864&client_ip=116.140.217.165&SecurityKey=20260309070245&promotionId=&mvid=2202208864&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=5b687f1ea33e1bf932a75ff2f0c12aca&sv=10004&ct=android&playUrlSsn=4f89b0f1d885527a227fd4a636419cfe1773010963240&prlId=4f89b0f1d885527a227fd4a636419cfe1773010963256&jid=4f89b0f1d885527a227fd4a636419cfe1773010962849V&is_advertise=0&sjid=subsession_1773010963750&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=6f78b46d99453125bcb2addc9758df50
 #EXTINF:-1,CCTV16超清
 http://69.30.246.194/live/cctv16.m3u8
+#EXTINF:-1,CCTV17超清
+http://pull-hls-f11.douyincdn.com/media/stream-407213179642053292.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1773619479&major_anchor_level=common&sign=bc2d4a3036fd27024f2c218c2fea7c91&t_id=037-202603090804382D2980E60B5163A589BB-tclVJX
 #EXTINF:-1,湖南卫视超清
 http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 #EXTINF:-1,浙江卫视超清
