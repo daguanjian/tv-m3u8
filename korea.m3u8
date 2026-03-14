@@ -57,8 +57,8 @@ TVN-테스트,http://43.137.43.57/get_channel.php?channel=tvn
 YTN-테스트,http://43.137.43.57/get_channel.php?channel=ytn
 OCN-테스트,http://43.137.43.57/get_channel.php?channel=ocn
 EBS1-테스트,http://43.137.43.57/get_channel.php?channel=ebs1
-更新日期: 2026-3-14 09:16:58,http://play.kankanlive.com/live/1698234869325962.m3u8
-CCTV1综合,http://play.kankanlive.com/live/1698234869325962.m3u8
+更新日期: 2026-3-15 07:01:02,http://pull-hls-f11.douyincdn.com/media/stream-407247988673217196.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774134023&major_anchor_level=common&sign=f5d0ce852fd1ff3b8ac202773947fc0a&t_id=037-202603150700225AFE4736318FE4FB86D8-WeDeYy
+CCTV1综合,http://pull-hls-f11.douyincdn.com/media/stream-407247988673217196.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774134023&major_anchor_level=common&sign=f5d0ce852fd1ff3b8ac202773947fc0a&t_id=037-202603150700225AFE4736318FE4FB86D8-WeDeYy
 CCTV2财经,http://pull-hls-f11.douyincdn.com/media/stream-118899562654991020.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1773806307&major_anchor_level=common&sign=26df1db545d069eb52f37cc9e31f4d3c&t_id=037-2026031111582683916CAD1DF66CD09662-UtkRAa
 CCTV3综艺,http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
 CCTV13新闻,http://pull-hls-f11.douyincdn.com/media/stream-695465280141001388.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1773914533&major_anchor_level=common&sign=00e2ac87499b260c729b1f091036f02a&t_id=037-20260312180213C90050E21D269F317686-un9xrW
@@ -125,7 +125,7 @@ CCTV16奥林匹克,http://69.30.246.194/live/cctv16.m3u8
 兰溪新闻综合,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
 缙云新闻综合,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
 龙泉电视台,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
-南京少儿,http://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8
+宜兴新闻综合,http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
 哈尔滨新闻综合,https://rmplive.hljtv.com/live/haerbin.m3u8
 哈尔滨生活,https://stream.hrbtv.net/shpd/sd/live.m3u8
 哈尔滨资讯,https://stream.hrbtv.net/zxpd/sd/live.m3u8
@@ -248,6 +248,7 @@ CCTV16奥林匹克,http://69.30.246.194/live/cctv16.m3u8
 靖远电视台,https://play.kankanlive.com/live/1658390970673988.m3u8
 通渭电视台,http://play.kankanlive.com/live/1661761962676984.m3u8
 秦安电视台,https://play.kankanlive.com/live/1680577080200944.m3u8
+CCTV1超清,http://pull-hls-f11.douyincdn.com/media/stream-407247988673217196.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774134023&major_anchor_level=common&sign=f5d0ce852fd1ff3b8ac202773947fc0a&t_id=037-202603150700225AFE4736318FE4FB86D8-WeDeYy
 CCTV2超清,http://pull-hls-f11.douyincdn.com/media/stream-118899562654991020.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1773806307&major_anchor_level=common&sign=26df1db545d069eb52f37cc9e31f4d3c&t_id=037-2026031111582683916CAD1DF66CD09662-UtkRAa
 CCTV3超清,http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
 CCTV13超清,http://pull-hls-f11.douyincdn.com/media/stream-695465280141001388.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1773914533&major_anchor_level=common&sign=00e2ac87499b260c729b1f091036f02a&t_id=037-20260312180213C90050E21D269F317686-un9xrW
@@ -256,6 +257,7 @@ CCTV16超清,http://69.30.246.194/live/cctv16.m3u8
 浙江卫视超清,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 江苏卫视超清,http://69.30.246.194/live/jsws.m3u8
 山东卫视超清,https://hlsbkmgsplive.miguvideo.com/wd_r4/yg/shandongwshd/3000/01.m3u8?&HlsSubType=&encrypt=
+东方卫视超清,http://bp-live4ktc.bestv.cn/1080p/dfws4k1080p264_4k1080p.m3u8
 辽宁卫视超清,https://hlsbkmgsplive.miguvideo.com/migu/kailu/lnwshd265/54/20200407/01.m3u8?&HlsSubType=&encrypt=
 东南卫视超清,https://hlsbkmgsplive.miguvideo.com/migu/kailu/dongnanws/51/20230724/01.m3u8?&HlsSubType=&encrypt=
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
