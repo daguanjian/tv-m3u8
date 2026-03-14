@@ -115,7 +115,7 @@ http://43.137.43.57/get_channel.php?channel=ytn
 http://43.137.43.57/get_channel.php?channel=ocn
 #EXTINF:-1,EBS1-테스트
 http://43.137.43.57/get_channel.php?channel=ebs1
-#EXTINF:-1,更新日期: 2026-3-14 07:11:46
+#EXTINF:-1,更新日期: 2026-3-14 08:06:52
 http://pull-hls-f11.douyincdn.com/media/stream-407242316492309164.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774048226&major_anchor_level=common&sign=f1780d556cc63c46aedaaa0e0e4372ed&t_id=037-202603140710257A3F55DD96CDE0F72CA5-CmNcZh
 #EXTINF:-1,CCTV1综合
 http://pull-hls-f11.douyincdn.com/media/stream-407242316492309164.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774048226&major_anchor_level=common&sign=f1780d556cc63c46aedaaa0e0e4372ed&t_id=037-202603140710257A3F55DD96CDE0F72CA5-CmNcZh
@@ -363,8 +363,6 @@ http://tvpull.dxhmt.cn:9081/tv/10523-1.m3u8
 http://tvpull.dxhmt.cn:9081/tv/10721-1.m3u8
 #EXTINF:-1,舞钢综合
 http://tvpull.dxhmt.cn:9081/tv/10481-1.m3u8
-#EXTINF:-1,鹤壁新闻
-http://pili-live-hls.hebitv.com/hebi/hbtv.m3u8
 #EXTINF:-1,灵宝新闻综合
 http://tvpull.dxhmt.cn:9081/tv/11282-1.m3u8
 #EXTINF:-1,淮滨综合
@@ -453,6 +451,8 @@ http://tvpull.dxhmt.cn:9081/tv/11122-1.m3u8
 http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8
 #EXTINF:-1,新密新闻频道
 http://tvpull.dxhmt.cn:9081/tv/10183-2.m3u8
+#EXTINF:-1,津南电视台
+http://play.jinnantv.top/live/JNTV1.m3u8
 #EXTINF:-1,嘉峪关综合
 https://play.kankanlive.com/live/1658978094528926.m3u8
 #EXTINF:-1,嘉峪关公共
