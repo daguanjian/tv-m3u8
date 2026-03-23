@@ -115,12 +115,10 @@ http://43.137.43.57/get_channel.php?channel=ytn
 http://43.137.43.57/get_channel.php?channel=ocn
 #EXTINF:-1,EBS1-테스트
 http://43.137.43.57/get_channel.php?channel=ebs1
-#EXTINF:-1,更新日期: 2026-3-23 08:59:56
+#EXTINF:-1,更新日期: 2026-3-24 06:26:45
 http://play.kankanlive.com/live/1698234869325962.m3u8
 #EXTINF:-1,CCTV1综合
 http://play.kankanlive.com/live/1698234869325962.m3u8
-#EXTINF:-1,CCTV3综艺
-http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
 #EXTINF:-1,CCTV16奥林匹克
 http://69.30.246.194/live/cctv16.m3u8
 #EXTINF:-1,湖南卫视
@@ -247,12 +245,8 @@ http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
 http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
 #EXTINF:-1,龙泉电视台
 http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
-#EXTINF:-1,南京十八生活
-http://nklive.nbs.cn/hls/1173a815-bfdb-4c3c-9f73-89ec37ae7716/index.m3u8
 #EXTINF:-1,南京少儿
 http://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8
-#EXTINF:-1,宜兴新闻综合
-http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
 #EXTINF:-1,哈尔滨新闻综合
 https://rmplive.hljtv.com/live/haerbin.m3u8
 #EXTINF:-1,哈尔滨生活
@@ -497,8 +491,6 @@ https://play.kankanlive.com/live/1658390970673988.m3u8
 http://play.kankanlive.com/live/1661761962676984.m3u8
 #EXTINF:-1,秦安电视台
 https://play.kankanlive.com/live/1680577080200944.m3u8
-#EXTINF:-1,CCTV3超清
-http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
 #EXTINF:-1,CCTV16超清
 http://69.30.246.194/live/cctv16.m3u8
 #EXTINF:-1,湖南卫视超清
