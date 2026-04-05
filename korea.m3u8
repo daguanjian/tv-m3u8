@@ -55,7 +55,7 @@ TVN-테스트,http://43.137.43.57/get_channel.php?channel=tvn
 YTN-테스트,http://43.137.43.57/get_channel.php?channel=ytn
 OCN-테스트,http://43.137.43.57/get_channel.php?channel=ocn
 EBS1-테스트,http://43.137.43.57/get_channel.php?channel=ebs1
-更新日期: 2026-4-5 09:23:09,http://play.kankanlive.com/live/1698234869325962.m3u8
+更新日期: 2026-4-6 06:13:21,http://play.kankanlive.com/live/1698234869325962.m3u8
 CCTV1综合,http://play.kankanlive.com/live/1698234869325962.m3u8
 CCTV13新闻,http://pull-hls-f11.douyincdn.com/media/stream-695553383939179180.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1775812647&major_anchor_level=common&sign=a16a13163e5a1bb150e2fdd5448bc59d&t_id=037-2026040317172716CCE7A11D64BD3CD9C0-IOLuIy
 CCTV16奥林匹克,http://69.30.246.194/live/cctv16.m3u8
@@ -121,6 +121,8 @@ CCTV16奥林匹克,http://69.30.246.194/live/cctv16.m3u8
 兰溪新闻综合,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
 缙云新闻综合,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
 龙泉电视台,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
+南京文旅纪录,http://nklive.nbs.cn/hls/9b2005c4-046c-422f-ba45-e6adc4f4de07/index.m3u8
+南京十八生活,http://nklive.nbs.cn/hls/1173a815-bfdb-4c3c-9f73-89ec37ae7716/index.m3u8
 南京少儿,http://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8
 哈尔滨新闻综合,https://rmplive.hljtv.com/live/haerbin.m3u8
 哈尔滨生活,https://stream.hrbtv.net/shpd/sd/live.m3u8
