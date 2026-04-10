@@ -111,7 +111,7 @@ http://43.137.43.57/get_channel.php?channel=ytn
 http://43.137.43.57/get_channel.php?channel=ocn
 #EXTINF:-1,EBS1-테스트
 http://43.137.43.57/get_channel.php?channel=ebs1
-#EXTINF:-1,更新日期: 2026-4-10 18:27:25
+#EXTINF:-1,更新日期: 2026-4-11 06:14:41
 http://play.kankanlive.com/live/1698234869325962.m3u8
 #EXTINF:-1,CCTV1综合
 http://play.kankanlive.com/live/1698234869325962.m3u8
@@ -119,8 +119,6 @@ http://play.kankanlive.com/live/1698234869325962.m3u8
 http://pull-hls-f11.douyincdn.com/media/stream-695633213632807596.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776420045&major_anchor_level=common&sign=312791ac58700a363d025c0a94c1bbd0&t_id=037-2026041018004416AA7E707B88F1063B85-Nh2VkU
 #EXTINF:-1,CCTV16奥林匹克
 http://69.30.246.194/live/cctv16.m3u8
-#EXTINF:-1,CCTV17农业农村
-http://pull-hls-f11.douyincdn.com/media/stream-695628960938590892.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776388385&major_anchor_level=common&sign=9148eda0c1121380f7266ebe2881a929&t_id=037-202604100913042E921560E43595D1D2E1-ycYyLY
 #EXTINF:-1,湖南卫视
 http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 #EXTINF:-1,浙江卫视
@@ -245,10 +243,6 @@ http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
 http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
 #EXTINF:-1,龙泉电视台
 http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
-#EXTINF:-1,镇江新闻综合
-http://zjtv-wshls.homecdn.com/live/2aa50.m3u8
-#EXTINF:-1,镇江2
-http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
 #EXTINF:-1,宜兴新闻综合
 http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
 #EXTINF:-1,哈尔滨新闻综合
@@ -501,8 +495,6 @@ http://pull-hls-f11.douyincdn.com/media/stream-695550183385334444.m3u8?arch_hrch
 http://pull-hls-f11.douyincdn.com/media/stream-695587197212689068.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776419893&major_anchor_level=common&sign=1fb268dd41931b52a56ffaa63eb9767b&t_id=037-20260410175813EE86C163D7BEF6CCF873-Pdnf7H
 #EXTINF:-1,CCTV16超清
 http://69.30.246.194/live/cctv16.m3u8
-#EXTINF:-1,CCTV17超清
-http://pull-hls-f11.douyincdn.com/media/stream-695628960938590892.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776388385&major_anchor_level=common&sign=9148eda0c1121380f7266ebe2881a929&t_id=037-202604100913042E921560E43595D1D2E1-ycYyLY
 #EXTINF:-1,湖南卫视超清
 http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 #EXTINF:-1,浙江卫视超清
