@@ -77,6 +77,100 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_262_03C4258B.m3u8
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_261_3638405F.m3u8
 #EXTINF:-1,백반기행
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_269_96C359FF.m3u8
+#EXTINF:-1,TV조선-테스트
+http://43.137.43.57/get_channel.php?channel=tvchosun
+#EXTINF:-1,MBN-테스트
+http://43.137.43.57/get_channel.php?channel=mbn
+#EXTINF:-1,TVN-테스트
+http://43.137.43.57/get_channel.php?channel=tvn
+#EXTINF:-1,채널A-테스트
+http://43.137.43.57/get_channel.php?channel=channela
+#EXTINF:-1,YTN-테스트
+http://43.137.43.57/get_channel.php?channel=ytn
+#EXTINF:-1,OCN-테스트
+http://43.137.43.57/get_channel.php?channel=ocn
+#EXTINF:-1,EBS1-테스트
+http://43.137.43.57/get_channel.php?channel=ebs1
+#EXTINF:-1,KBS N 스포츠-테스트
+http://43.137.43.57/get_channel.php?channel=kbs_n_sports
+#EXTINF:-1,MBC스포츠-테스트
+http://43.137.43.57/get_channel.php?channel=mbc_sports
+#EXTINF:-1,MBC ON-테스트
+http://43.137.43.57/get_channel.php?channel=mbc_on
+#EXTINF:-1,SBS스포츠-테스트
+http://43.137.43.57/get_channel.php?channel=sbs_sports
+#EXTINF:-1,SBS골프-테스트
+http://43.137.43.57/get_channel.php?channel=sbs_golf
+#EXTINF:-1,J 골프-테스트
+http://43.137.43.57/get_channel.php?channel=j_golf
+#EXTINF:-1,SPOTV-테스트
+http://43.137.43.57/get_channel.php?channel=spotv
+#EXTINF:-1,SPOTV 2-테스트
+http://43.137.43.57/get_channel.php?channel=spotv2
+#EXTINF:-1,ENA-테스트
+http://43.137.43.57/get_channel.php?channel=ena
+#EXTINF:-1,iHQ-테스트
+http://43.137.43.57/get_channel.php?channel=ihq
+#EXTINF:-1,TVN Sports-테스트
+http://43.137.43.57/get_channel.php?channel=tvn_sports
+#EXTINF:-1,스카이스포츠-테스트
+http://43.137.43.57/get_channel.php?channel=sky_sports
+#EXTINF:-1,tvN Show-테스트
+http://43.137.43.57/get_channel.php?channel=tvn_show
+#EXTINF:-1,OCN Movies 2-테스트
+http://43.137.43.57/get_channel.php?channel=ocn_movies2
+#EXTINF:-1,OCN Movies-테스트
+http://43.137.43.57/get_channel.php?channel=ocn_movies
+#EXTINF:-1,중화 TV-테스트
+http://43.137.43.57/get_channel.php?channel=chunghwa_tv
+#EXTINF:-1,낚시 TV-테스트
+http://43.137.43.57/get_channel.php?channel=fishing_tv
+#EXTINF:-1,Channel E-테스트
+http://43.137.43.57/get_channel.php?channel=channel_e
+#EXTINF:-1,바둑TV-테스트
+http://43.137.43.57/get_channel.php?channel=baduk_tv
+#EXTINF:-1,빌리어즈TV-테스트
+http://43.137.43.57/get_channel.php?channel=billiards_tv
+#EXTINF:-1,현대홈쇼핑-테스트
+http://43.137.43.57/get_channel.php?channel=hyundai_homeshopping
+#EXTINF:-1,Spotv Golf And Health-테스트
+http://43.137.43.57/get_channel.php?channel=spotv_golf_health
+#EXTINF:-1,가톨릭 평화방송-테스트
+http://43.137.43.57/get_channel.php?channel=catholic_peace_tv
+#EXTINF:-1,불교방송-테스트
+http://43.137.43.57/get_channel.php?channel=buddhist_tv
+#EXTINF:-1,JTBC 3-테스트
+http://43.137.43.57/get_channel.php?channel=jtbc3
+#EXTINF:-1,EBS 2-테스트
+http://43.137.43.57/get_channel.php?channel=ebs2
+#EXTINF:-1,뽀요 TV-테스트
+http://43.137.43.57/get_channel.php?channel=pororo_tv
+#EXTINF:-1,투니버스-테스트
+http://43.137.43.57/get_channel.php?channel=tooniverse
+#EXTINF:-1,CNN-테스트
+http://43.137.43.57/get_channel.php?channel=cnn
+#EXTINF:-1,BBC-테스트
+http://43.137.43.57/get_channel.php?channel=bbc
+#EXTINF:-1,브레인티비-테스트
+http://43.137.43.57/get_channel.php?channel=brain_tv
+#EXTINF:-1,Nat Geo Wild-테스트
+http://43.137.43.57/get_channel.php?channel=nat_geo_wild
+#EXTINF:-1,HISTORY-테스트
+http://43.137.43.57/get_channel.php?channel=history
+#EXTINF:-1,iNET-테스트
+http://43.137.43.57/get_channel.php?channel=inet
+#EXTINF:-1,어린이티비-테스트
+http://43.137.43.57/get_channel.php?channel=kids_tv
+#EXTINF:-1,NHK World-테스트
+http://43.137.43.57/get_channel.php?channel=nhk_world
+#EXTINF:-1,SPOTV Prime-테스트
+http://43.137.43.57/get_channel.php?channel=spotv_prime
+#EXTINF:-1,SPOTV Prime 2-테스트
+http://43.137.43.57/get_channel.php?channel=spotv_prime2
+#EXTINF:-1,SPOTV Prime 1-테스트
+http://43.137.43.57/get_channel.php?channel=spotv_prime1
+#EXTINF:-1,SBS PLUS-테스트
+http://43.137.43.57/get_channel.php?channel=sbs_plus
 #EXTINF:-1,延边卫视频道
 https://srs.iyb983.cn/video/CYS/index.m3u8
 #EXTINF:-1,YBTV-1 朝鲜语综合频道
