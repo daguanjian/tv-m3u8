@@ -88,7 +88,7 @@ SBS PLUS-테스트,http://43.137.43.57/get_channel.php?channel=sbs_plus
 延边卫视频道,https://srs.iyb983.cn/video/CYS/index.m3u8
 YBTV-1 朝鲜语综合频道,https://srs.iyb983.cn/video/ybtv1/index.m3u8
 YBTV-2 汉语综合频道,https://srs.iyb983.cn/video/ybtv2/index.m3u8
-更新日期: 2026-5-11 06:57:14,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=699004&netType=4&sid=2201057821&pid=2028597139&timestamp=20260511065142&Channel_ID=0116_2600037000-99000-200300220103848&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=113.6.228.54&SecurityKey=20260511065142&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.4.2-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=47d9dc4740baa5b98fe8fde2a2af4e77
+更新日期: 2026-5-11 09:10:34,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=699004&netType=4&sid=2201057821&pid=2028597139&timestamp=20260511065142&Channel_ID=0116_2600037000-99000-200300220103848&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=113.6.228.54&SecurityKey=20260511065142&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.4.2-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=47d9dc4740baa5b98fe8fde2a2af4e77
 CCTV1综合,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=699004&netType=4&sid=2201057821&pid=2028597139&timestamp=20260511065142&Channel_ID=0116_2600037000-99000-200300220103848&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=113.6.228.54&SecurityKey=20260511065142&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.4.2-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=47d9dc4740baa5b98fe8fde2a2af4e77
 CCTV2财经,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv2hd/1500/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=699004&netType=4&sid=5500346945&pid=2028597139&timestamp=20260511063655&Channel_ID=0116_2600037000-99000-200300220103826&ProgramID=631780532&ParentNodeID=-99&assertID=5500346945&client_ip=113.6.228.37&SecurityKey=20260511063655&promotionId=&mvid=5101064231&mcid=500020&playurlVersion=WX-A1-9.4.2-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=4ab4b2c8b110ca1da6dea2f38aaf2ce0
 CCTV3综艺,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv3hd/2000/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=699004&netType=4&sid=5500212864&pid=2028597139&timestamp=20260511064534&Channel_ID=0116_2600037000-99000-200300220103841&ProgramID=624878271&ParentNodeID=-99&assertID=5500212864&client_ip=113.6.228.47&SecurityKey=20260511064534&promotionId=&mvid=5100001683&mcid=500020&playurlVersion=WX-A1-9.4.2-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=88db170bd041f523f3ea93eb9086b95a
@@ -122,7 +122,6 @@ CCTV17农业农村,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/
 江西卫视,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/jxwshd/51/20190820/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=600633&netType=4&sid=5910021492&pid=2028597139&timestamp=20260511063047&Channel_ID=0116_2600037000-99000-200300220103824&ProgramID=783847495&ParentNodeID=-99&assertID=5910021492&client_ip=113.6.228.32&SecurityKey=20260511063047&promotionId=&mvid=5900004351&mcid=500020&playurlVersion=WX-A1-9.4.2-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=c3a1dddbaddd6de839f3b369c302567b
 兵团卫视,https://hlsbkmgsplive.miguvideo.com/migu/kailu/btws/51/20250804/01.m3u8?&HlsSubType=&encrypt=
 广东民生,http://38.75.136.137:98/gslb/dsdqpub/gdgg.m3u8?auth=testpub
-广东新闻,http://38.75.136.137:98/gslb/dsdqpub/gdxw.m3u8?auth=testpub
 广东影视,https://hlsbkmgsplive.miguvideo.com/wd_r1/2018/nfmedia/nfys/1000/01.m3u8?&HlsSubType=&encrypt=
 长沙县新闻综合,https://liveplay-srs.voc.com.cn/hls/tv/203_10cdf5.m3u8
 衡山综合,https://liveplay-srs.voc.com.cn/hls/tv/161_8d2e76.m3u8
@@ -176,9 +175,6 @@ CCTV17农业农村,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/
 兰溪新闻综合,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
 缙云新闻综合,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
 龙泉电视台,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
-南京文旅纪录,http://nklive.nbs.cn/hls/9b2005c4-046c-422f-ba45-e6adc4f4de07/index.m3u8
-南京十八生活,http://nklive.nbs.cn/hls/1173a815-bfdb-4c3c-9f73-89ec37ae7716/index.m3u8
-南京少儿,http://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8
 宜兴新闻综合,http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
 哈尔滨新闻综合,https://rmplive.hljtv.com/live/haerbin.m3u8
 哈尔滨生活,https://stream.hrbtv.net/shpd/sd/live.m3u8
