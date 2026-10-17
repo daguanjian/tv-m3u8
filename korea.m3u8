@@ -1,8 +1,8 @@
 #EXTM3U
-KBS1,http://43.164.132.11/kakaotv/get_channel.php?channel=kbs1
-KBS2,http://43.164.132.11/kakaotv/get_channel.php?channel=kbs2
-SBS,http://43.164.132.11/kakaotv/get_channel.php?channel=sbs
-MBC,http://43.164.132.11/kakaotv/get_channel.php?channel=mbc
+KBS1,http://218.98.50.141:8088/live/KBS1.m3u8
+KBS2,http://218.98.50.141:8088/live/KBS2.m3u8
+SBS,http://218.98.50.141:8088/live/SBS.m3u8
+MBC,http://218.98.50.141:8088/live/MBC.m3u8
 KBSWorld,http://koreatv.dothome.co.kr/kbsworld.php
 KBSStory,http://koreatv.dothome.co.kr/kbsstory.php
 KBSLife,http://koreatv.dothome.co.kr/kbslife.php
@@ -43,10 +43,10 @@ LIFETIME,https://tving-live-o2-xcdn.tving.com/o2/v1/019d668fbfde153d786553381d0d
 나는 자연인이다,https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_262_03C4258B.m3u8
 도시어부,https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_261_3638405F.m3u8
 백반기행,https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_269_96C359FF.m3u8
-KBS-테스트,http://113.207.105.246:8088/live/KBS1.m3u8
-KBS2-테스트,http://113.207.49.20:8088/live/KBS2.m3u8
-SBS-테스트,http://113.207.49.20:8088/live/SBS.m3u8
-MBC-테스트,http://113.207.105.246:8088/live/MBC.m3u8
+KBS-테스트,http://43.164.132.11/kakaotv/get_channel.php?channel=kbs1
+KBS2-테스트,http://43.164.132.11/kakaotv/get_channel.php?channel=kbs2
+SBS-테스트,http://43.164.132.11/kakaotv/get_channel.php?channel=sbs
+MBC-테스트,http://43.164.132.11/kakaotv/get_channel.php?channel=mbc
 JTBC-테스트,http://218.98.50.141:8088/live/JTBC.m3u8
 TV조선-테스트,http://124.222.153.240/kakaotv/get_channel.php?channel=tvchosun
 MBN-테스트,http://124.222.153.240/kakaotv/get_channel.php?channel=mbn
