@@ -6,7 +6,7 @@ https://tving-live-o2-xcdn.tving.com/o2/v1/01a0a855bb341eb80e791db1d96034/01a0a8
 #EXTINF:-1,SBS
 http://43.164.132.11/kakaotv/get_channel.php?channel=sbs
 #EXTINF:-1,MBC
-http://104.224.168.115:8080/live/mbc.m3u8
+https://tving-live-o2-xcdn.tving.com/v1/ssai/manifest/019bd50ff2d61eb80e791c22ad4884/25ce461fc6573a0d4ab76f8f49c5836d/dmMxX3N0cmVhbTMubTN1OA==/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTQyMjE1MzIsInBhdGgiOiIvdjEifQ.Q_sNUkD2MPu6a_meNxXgcqciBkkpkRxN68V5BJIS5LU
 #EXTINF:-1,KBSWorld
 http://koreatv.dothome.co.kr/kbsworld.php
 #EXTINF:-1,KBSStory
